@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="torchlibrosa_fixed-fixed",
+    name="torchlibrosa",
     version="0.0.91",
     author="Qiuqiang Kong",
     author_email="qiuqiangkong@gmail.com",
