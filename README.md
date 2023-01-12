@@ -4,7 +4,7 @@ This codebase provides PyTorch implementation of some librosa functions. If user
 
 ## Install
 ```bash
-$ pip install torchlibrosa_fixed
+$ pip install git+https://github.com/bellsky/torchlibrosa
 ```
 
 ## Examples 1
