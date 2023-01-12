@@ -790,7 +790,7 @@ class Scalar(nn.Module):
 
 
 def debug(select, device):
-    """Compare numpy + librosa and torchlibrosa results. For debug. 
+    """Compare numpy + librosa and torchlibrosa_fixed results. For debug.
 
     Args:
         select: 'dft' | 'logmel'
